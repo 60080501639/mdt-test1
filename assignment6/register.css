@@ -1,0 +1,25 @@
+h1 , h2 , h3 ,h4 {
+    font-family: "serithai";
+    text-align: center;
+    color: black;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 25px;
+    background-color: salmon;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  h3 , h4 {
+    font-size: 25px;
+  }
+  @font-face {
+    font-family: "serithai";
+    src: url("font/FCLamoon/FC\ Lamoon\ Regular\ Italic\ ver\ 1.00.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
